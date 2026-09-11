@@ -144,8 +144,6 @@ Campus/
 │       └── DisclaimerBadge.tsx    # Clear note that this is an informal guide
 ```
 
-> **Clean Architecture:** All texts, questions, and links live inside `src/data/`. That means anyone can update deadlines or text in seconds without breaking any React code.
-
 ---
 
 ## 8. How to Run It Locally
