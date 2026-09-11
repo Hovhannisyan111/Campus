@@ -13,7 +13,7 @@
 ---
 
 ### Quick Links
-- **Live Web App on Vercel:** [https://campus-ewe6hdo1b-me-3f2b.vercel.app/](https://campus-ewe6hdo1b-me-3f2b.vercel.app/](https://campus-me-3f2b.vercel.app/?_vercel_share=rD4kfjgcImm0faAl7IlzaKbGuK8TIPIW))
+- **Live Web App on Vercel:** [https://campus-me-3f2b.vercel.app/?_vercel_share=rD4kfjgcImm0faAl7IlzaKbGuK8TIPIW](https://campus-ewe6hdo1b-me-3f2b.vercel.app/](https://campus-me-3f2b.vercel.app/?_vercel_share=rD4kfjgcImm0faAl7IlzaKbGuK8TIPIW))
 - **Project GitHub Repository:** [https://github.com/Hovhannisyan111/Campus](https://github.com/Hovhannisyan111/Campus)
 - **Official Copernicus Berlin Site:** [https://copernicusberlin.org/en](https://copernicusberlin.org/en)
 
