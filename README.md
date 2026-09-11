@@ -2,7 +2,7 @@
 
 **Author:** Arman Ogannisian
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?style=flat-square&logo=vercel)]([https://campus-ewe6hdo1b-me-3f2b.vercel.app/](https://campus-me-3f2b.vercel.app/?_vercel_share=rD4kfjgcImm0faAl7IlzaKbGuK8TIPIW))
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?style=flat-square&logo=vercel)](https://campus-me-3f2b.vercel.app/?_vercel_share=rD4kfjgcImm0faAl7IlzaKbGuK8TIPIW))
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Hovhannisyan111/Campus)
 [![Copernicus Berlin](https://img.shields.io/badge/Copernicus%20Berlin-IES%20Scholarship-F37021?style=flat-square)](https://copernicusberlin.org/en)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -13,7 +13,7 @@
 ---
 
 ### Quick Links
-- **Live Web App on Vercel:** [https://campus-ewe6hdo1b-me-3f2b.vercel.app/](https://campus-ewe6hdo1b-me-3f2b.vercel.app/)
+- **Live Web App on Vercel:** [https://campus-ewe6hdo1b-me-3f2b.vercel.app/](https://campus-ewe6hdo1b-me-3f2b.vercel.app/](https://campus-me-3f2b.vercel.app/?_vercel_share=rD4kfjgcImm0faAl7IlzaKbGuK8TIPIW))
 - **Project GitHub Repository:** [https://github.com/Hovhannisyan111/Campus](https://github.com/Hovhannisyan111/Campus)
 - **Official Copernicus Berlin Site:** [https://copernicusberlin.org/en](https://copernicusberlin.org/en)
 
